@@ -19,3 +19,13 @@ AWS offers the following tools to streamline your experience:
 To get started with the API, you need credentials to grant programmatic access. 
 
 This repository contains sample Jupyter Notebooks demonstrating how to access and interact with Amazon Bedrock's API. The goal is to provide easy-to-follow, hands-on examples that the community can adapt and build upon.
+
+# Amazon Bedrock endpoints
+
+To connect programmatically to an AWS service, you use an endpoint. 
+
+Amazon Bedrock provides the following service endpoints.
+
+bedrock – Contains control plane APIs for managing, training, and deploying models. For more information, see Amazon Bedrock Actions and Amazon Bedrock Data Types.
+
+bedrock-runtime – Contains data plane APIs for making inference requests for models hosted in Amazon Bedrock. For more information, see Amazon Bedrock Runtime Actions and Amazon Bedrock Runtime Data Types.
