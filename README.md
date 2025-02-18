@@ -26,6 +26,6 @@ To connect programmatically to an AWS service, you use an endpoint.
 
 Amazon Bedrock provides the following service endpoints.
 
-bedrock – Contains control plane APIs for managing, training, and deploying models. For more information, see Amazon Bedrock Actions and Amazon Bedrock Data Types.
+bedrock – Contains control plane APIs for managing, training, and deploying models. 
 
-bedrock-runtime – Contains data plane APIs for making inference requests for models hosted in Amazon Bedrock. For more information, see Amazon Bedrock Runtime Actions and Amazon Bedrock Runtime Data Types.
+bedrock-runtime – Contains data plane APIs for making inference requests for models hosted in Amazon Bedrock. 
