@@ -11,3 +11,5 @@ This section describes how to set up your environment to make Amazon Bedrock req
 3) Amazon SageMaker AI notebooks
 
 To get started with the API, you need credentials to grant programmatic access. 
+
+Here I've simple JypeterLab Notebook to get started with Amazon Bedrock API Access by invoking FMs 
