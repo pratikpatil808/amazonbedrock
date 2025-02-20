@@ -1,4 +1,4 @@
-# Amazon Bedrock API Notebooks
+# Amazon Bedrock API Access 
 
 Welcome to the **Amazon Bedrock API Notebooks** repository! This repository provides hands-on sample Jupyter Notebooks for working with the **Amazon Bedrock service**. These notebooks are designed to help you quickly understand how to interact with Bedrock’s API.
 
